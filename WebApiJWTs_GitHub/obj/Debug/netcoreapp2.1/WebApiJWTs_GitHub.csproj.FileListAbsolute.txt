@@ -12,3 +12,17 @@ F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcorea
 F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs_GitHub.pdb
 F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.dll
 F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.pdb
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs_GitHub.deps.json
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs_GitHub.runtimeconfig.json
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs_GitHub.runtimeconfig.dev.json
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs_GitHub.dll
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs_GitHub.pdb
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.csprojAssemblyReference.cache
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.csproj.CoreCompileInputs.cache
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.RazorAssemblyInfo.cache
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.RazorAssemblyInfo.cs
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.AssemblyInfoInputs.cache
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.AssemblyInfo.cs
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.RazorTargetAssemblyInfo.cache
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.dll
+F:\My Projects\DotNetCore\WebApiJWTs_GitHub\WebApiJWTs_GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs_GitHub.pdb
