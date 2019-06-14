@@ -1,0 +1,14 @@
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs-GitHub.deps.json
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs-GitHub.runtimeconfig.json
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs-GitHub.runtimeconfig.dev.json
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs-GitHub.dll
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\bin\Debug\netcoreapp2.1\WebApiJWTs-GitHub.pdb
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.csprojAssemblyReference.cache
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.csproj.CoreCompileInputs.cache
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.RazorAssemblyInfo.cache
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.RazorAssemblyInfo.cs
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.AssemblyInfoInputs.cache
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.AssemblyInfo.cs
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.RazorTargetAssemblyInfo.cache
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.dll
+F:\My Projects\DotNetCore\WebApiJWTs-GitHub\WebApiJWTs-GitHub\obj\Debug\netcoreapp2.1\WebApiJWTs-GitHub.pdb
