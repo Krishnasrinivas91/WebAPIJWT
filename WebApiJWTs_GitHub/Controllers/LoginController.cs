@@ -50,7 +50,7 @@ namespace WebApiJWTs_GitHub.Controllers
 
         private UserModel AuthenticateUser(UserModel userModel)
         {
-            if (userModel != null && userModel.UserName == "TestUser")
+            if (userModel != null && userModel.UserName == "TestUser" && userModel.Password == "TestPassword")
             {
                 return new UserModel { UserName = "TestUser", UserEmail = "Test@Test.com" };
             }
